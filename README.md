@@ -1,5 +1,8 @@
 # Aprendendo Python
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gabraganca/aprendendo_python/master)
+
+
 Material para ensino da linguagem de programação Python.
 
 Este material se baseia no livro Pense em Python do autor Allen Downey e
