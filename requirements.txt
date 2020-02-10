@@ -4,3 +4,5 @@ jupyter-core==4.6.1
 jupyterlab==1.2.4
 jupyterlab-server==1.0.6
 lxml==4.5.0
+numpy==1.18.1
+pandas==1.0.1
